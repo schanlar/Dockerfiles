@@ -1,0 +1,7 @@
+export MESA_DIR=/home/user/mesa-r10398
+export MESASDK_ROOT=/home/user/mesasdk
+source $MESASDK_ROOT/bin/mesasdk_init.sh
+export OMP_NUM_THREADS=2
+
+alias python='python3'
+alias pip='pip3'
